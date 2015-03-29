@@ -2,7 +2,7 @@
 
 As of UE4.7 Blueprints still don't expose a node to read the current level name.
 
-This code will add nodes to get the current level name and some other utility funcionts related.
+This code will add nodes to get the current level name and some other related utility functions.
 
 Methods:
     FString CurrentLevelName
